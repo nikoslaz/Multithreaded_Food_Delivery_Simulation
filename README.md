@@ -1,7 +1,5 @@
 # Distributed Food Delivery Simulation System
 
-![System Architecture](system_flow.png) <!-- Add a diagram if available -->
-
 ## Overview
 A pthread-based distributed system simulating food order processing, implementing concurrent data structures for order handling across customer districts, order agents, and chefs.
 
